@@ -177,8 +177,8 @@ Scenarios where forking is useful:
 
 Issues provide a centralized platform for tracking, discussing and managing different aspects of a project like:
            - Track bugs; developers cam create issues to report bugs or unexpected behaviour int the codebase, this issues can then be assigned, prioritized and resolved by the developement team.
-           
-           - Manage tasks; Issues can be used to break down and track individual tasks, such as implementing a new feature, refactoring existing code.  
+        
+-Manage tasks; Issues can be used to break down and track individual tasks, such as implementing a new feature, refactoring existing code.  
 
 ## Reflect on common challenges and best practices associated with using GitHub for version control. What are some common pitfalls new users might encounter, and what strategies can be employed to overcome them and ensure smooth collaboration?
 
